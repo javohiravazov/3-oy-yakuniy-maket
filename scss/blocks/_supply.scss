@@ -1,0 +1,44 @@
+.supply {
+  margin-top: 120px;
+}
+.supple__header-title {
+  max-width: 687px;
+  font-family: "Exo2-SemiBold";
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 60px;
+  text-align: left;
+  color: #363738;
+  margin-bottom: 48px;
+}
+.supply__cards {
+  display: flex;
+  gap: 56px;
+  border-radius: 16px;
+  box-shadow: 4px 4px 15px 15px #0000001f;
+  margin-left: 49px;
+  margin-bottom: 24px;
+}
+.supple__cards-image {
+  margin-top: 32px;
+  margin-left: 96px;
+  margin-bottom: 32px;
+}
+.supply__cards-title {
+  max-width: 258px;
+  font-family: "Exo2-SemiBold";
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 25px;
+  text-align: left;
+  color: #363738;
+  margin-top: 32px;
+}
+.supple__cards-text {
+  max-width: 568px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  color: #6b6b6c;
+  margin-top: 48px;
+}
